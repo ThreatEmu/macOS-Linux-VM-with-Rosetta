@@ -2,7 +2,7 @@
 ### Documentation from Apple
 The [Apple Dev Docs](https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta)
 ### Installation Tutorial Video
-[Rosetta 2 WORKS on Linux on Mac? Future of Linux Proton gaming on Apple Silicon Macs, VM Tutorial!](https://youtu.be/BVrxyszJ37I)
+[Rosetta 2 WORKS on Linux on Mac? Future of Linux Proton gaming on Apple Silicon Macs, VM Tutorial!](https://www.youtube.com/watch?v=BVrxyszJ37I)
 
 ### Live stream
 
